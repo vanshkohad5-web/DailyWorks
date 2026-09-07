@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tasks - Study Space",
+  "description": "A sleek, responsive study dashboard featuring floating island widgets, real-time interactive calendar with task scheduling, live weather forecast dashboard, course dossiers, digital watch, stopwatch with lap tracking, daily tasks, and autosaved brain dump.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
